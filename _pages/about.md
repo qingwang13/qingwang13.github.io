@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I'm a 2nd year PhD student in Economics at Ca' Foscari University.
+Welcome to my website!
+
+I'm a 2nd year PhD student in Economics at Ca' Foscari University.
