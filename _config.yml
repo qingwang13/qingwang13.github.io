@@ -15,6 +15,7 @@ url                      : https://qingwang13.github.io # the base hostname & pr
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "qingwang13.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+logo                     : "Cafoscari.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
