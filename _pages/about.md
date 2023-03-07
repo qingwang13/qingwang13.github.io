@@ -10,4 +10,4 @@ redirect_from:
 
 Welcome to my website!
 
-I'm a 2nd year PhD student in Economics at Ca' Foscari University.
+I'm a 2nd year PhD student in Economics at Ca' Foscari University. My advisor is Prof. Roberto Casarin.
