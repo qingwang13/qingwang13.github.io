@@ -1,5 +1,5 @@
 ---
-title: "Microeconomics"
+title: "Probability Theory"
 collection: teaching
 type: "Master course"
 permalink: /teaching/2022-prob-ucf
