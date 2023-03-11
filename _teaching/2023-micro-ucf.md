@@ -3,7 +3,7 @@ title: "Microeconomics"
 collection: teaching
 type: "Workshop"
 permalink: /teaching/2023-micro-ucf
-venue: "University 1, Department"
+venue: "Ca' Foscari University"
 date: 2023
 location: "Venezia, IT"
 ---
