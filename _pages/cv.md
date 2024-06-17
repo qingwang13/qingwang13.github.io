@@ -16,7 +16,7 @@ Education
 * M.S. in Quantitative Economics, European Joint Degree, 2021
 * Ph.D in Economics, Ca' Foscari University, 2025 (expected)
 
-Education
+Visit
 ======
 * Visiting Ph.D student in Department of Statistical Science at University of Toronto
   
