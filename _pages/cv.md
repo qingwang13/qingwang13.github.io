@@ -16,12 +16,15 @@ Education
 * M.S. in Quantitative Economics, European Joint Degree, 2021
 * Ph.D in Economics, Ca' Foscari University, 2025 (expected)
 
+Education
+======
+* Visiting Ph.D student in Department of Statistical Science at University of Toronto
+  
 Work experience
 ======
 * 2011 - 2017: DNV China
   * Approval Engineer / Surveyor
 
-  
 Skills
 ======
 * Python
