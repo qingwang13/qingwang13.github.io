@@ -10,6 +10,6 @@ redirect_from:
 
 Welcome to my website!
 
-I'm a 2nd year PhD student in Economics at Ca' Foscari University. 
+I'm a 3rd year PhD student in Economics at Ca' Foscari University. 
 
-My advisor is Prof. Roberto Casarin.
+My advisors are Prof. Roberto Casarin from Ca' Foscari University and Prof. Radu Craiu from University of Toronto.
