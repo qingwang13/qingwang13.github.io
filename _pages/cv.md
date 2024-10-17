@@ -51,7 +51,11 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-<!--   
-Service and leadership
+
+<!--Service and leadership
 ======
 * Currently signed in to 43 different slack teams -->
+
+<!-- Awards and honors
+======
+* Best poster award at ISBA 2024 -->
