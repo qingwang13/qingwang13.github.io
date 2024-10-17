@@ -56,6 +56,6 @@ Teaching
 ======
 * Currently signed in to 43 different slack teams -->
 
-<!-- Awards and honors
+Awards and honors
 ======
-* Best poster award at ISBA 2024 -->
+* Best poster award at ISBA 2024
