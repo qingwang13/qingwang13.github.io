@@ -12,4 +12,4 @@ Research Interests:
 
 Working Papers:
 ------
-- **Markov Switching Multiple-equation Tensor Regressions** (under revision) [arXiv](https://arxiv.org/abs/2407.00655)
+- **Markov Switching Multiple-equation Tensor Regressions** (Journal of Multivariate Analysis, forthcoming) [arXiv](https://arxiv.org/abs/2407.00655), [Code](https://github.com/qingwang13/Markov-Switching-Tensor-Regression.git)
