@@ -8,7 +8,7 @@ Research Interests:
 ------
 - Bayesian Analysis
 - Tensor Regression
-- Low-rank Decomposition Methods
+- High-dimensional Data Analysis
 
 Publications:
 ------
