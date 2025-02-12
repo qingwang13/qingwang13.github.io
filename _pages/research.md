@@ -12,7 +12,7 @@ Research Interests:
 
 Publications:
 ------
-- Markov Switching Multiple-equation Tensor Regressions (**Journal of Multivariate Analysis**, forthcoming) [arXiv](https://arxiv.org/abs/2407.00655), [Code](https://github.com/qingwang13/Markov-Switching-Tensor-Regression.git)
+- Markov Switching Multiple-equation Tensor Regressions (2025). **Journal of Multivariate Analysis**, to appear. (with Roberto Casarin and Radu Craiu) [arXiv](https://arxiv.org/abs/2407.00655), [Code](https://github.com/qingwang13/Markov-Switching-Tensor-Regression.git).
 
 Working Papers:
 ------
