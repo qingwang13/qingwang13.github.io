@@ -10,6 +10,10 @@ Research Interests:
 - Tensor Regression
 - Low-rank Decomposition Methods
 
+Publications:
+------
+- Markov Switching Multiple-equation Tensor Regressions (**Journal of Multivariate Analysis**, forthcoming) [arXiv](https://arxiv.org/abs/2407.00655), [Code](https://github.com/qingwang13/Markov-Switching-Tensor-Regression.git)
+
 Working Papers:
 ------
-- **Markov Switching Multiple-equation Tensor Regressions** (Journal of Multivariate Analysis, forthcoming) [arXiv](https://arxiv.org/abs/2407.00655), [Code](https://github.com/qingwang13/Markov-Switching-Tensor-Regression.git)
+- Bayesian Compressed Regression
