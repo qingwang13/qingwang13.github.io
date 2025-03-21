@@ -16,4 +16,4 @@ Publications:
 
 Working Papers:
 ------
-- Bayesian Compressed Regression
+- Bayesian dimensionality reduction methods
