@@ -15,3 +15,5 @@ I'm a 4th year PhD student in Economics at Ca' Foscari University, with an inter
 My advisors are Prof. Roberto Casarin from Ca' Foscari University and Prof. Radu Craiu from University of Toronto. 
 
 I was a visiting PhD student in the Department of Statistical Sciences at University of Toronto from September 2023 to June 2024.
+
+[Here is my updated CV (PDF)](/files/CV.pdf)
