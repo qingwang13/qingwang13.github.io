@@ -15,7 +15,7 @@ Education
 * B.S. in Chemical Engineering, Hubei University, 2008
 * M.S. in System Control Engineering, Telemark University College, 2010
 * M.S. in Quantitative Economics, European Joint Degree, 2021
-* Ph.D in Economics, Ca' Foscari University, 2025 (expected)
+* Ph.D in Economics, Ca' Foscari University, 2026 (expected)
 
 Visit
 ------
@@ -24,7 +24,7 @@ Visit
 Work experience
 ------
   * 2011 - 2017: DNV China
-  * Approval Engineer / Surveyor
+    * Approval Engineer / Surveyor
 
 Skills
 ------
