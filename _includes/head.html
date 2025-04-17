@@ -14,12 +14,19 @@
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 
-  // Only prompt for password on private pages (e.g., `/private/`)
-  if (window.location.pathname === "/private/") { // Modify this to match the URL of your private page
-    var correctPassword = "qingsecret"; // 🔑 Change this to your password
-    var password = prompt("Enter password to view this page:");
-    if (password !== correctPassword) {
-      document.body.innerHTML = "<h1 style='text-align:center;margin-top:20%'>🚫 Access Denied</h1>";
+  // Check if password has been entered in localStorage
+  if (!localStorage.getItem("passwordEntered")) {
+    // Only prompt for password on specific pages (e.g., `/private/`)
+    if (window.location.pathname === "/private/") { // Change to the path of your private page
+      var correctPassword = "qingsecret"; // 🔑 Change this to your password
+      var password = prompt("Enter password to view this page:");
+
+      if (password === correctPassword) {
+        // Store the password entry to localStorage
+        localStorage.setItem("passwordEntered", true);
+      } else {
+        document.body.innerHTML = "<h1 style='text-align:center;margin-top:20%'>🚫 Access Denied</h1>";
+      }
     }
   }
 </script>
