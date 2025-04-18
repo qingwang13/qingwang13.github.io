@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Private Content
+permalink: /private/
 password: 821313
 ---
 
