@@ -6,12 +6,11 @@ password: 821313
 ---
 
 <div id="private-content" style="display:none;">
-    <h1>Private Content</h1>
-    <p>This is a private page. Please enter the password to view the content.</p>
 
 ## Welcome, Qing 👋
 
 This page is hidden and password protected. Add your notes below:
+-[ticket](/files/ticket.pdf)
 </div>
 
 <div id="password-form">
