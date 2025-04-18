@@ -6,9 +6,12 @@ password: 821313
 ---
 
 <div id="private-content" style="display:none;">
-## Your private content here
+    <h1>Private Content</h1>
+    <p>This is a private page. Please enter the password to view the content.</p>
 
-This will only be visible after entering the correct password.
+## Welcome, Qing 👋
+
+This page is hidden and password protected. Add your notes below:
 </div>
 
 <div id="password-form">
@@ -30,7 +33,3 @@ function checkPassword() {
   }
 }
 </script>
-
-## Welcome, Qing 👋
-
-This page is hidden and password protected. Add your notes below:
