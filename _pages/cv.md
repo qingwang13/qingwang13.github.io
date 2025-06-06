@@ -12,10 +12,10 @@ redirect_from:
 
 Education
 ------
-* B.S. in Chemical Engineering, Hubei University, 2008
-* M.S. in System Control Engineering, Telemark University College, 2010
-* M.S. in Quantitative Economics, European Joint Degree, 2021
 * Ph.D in Economics, Ca' Foscari University, 2026 (expected)
+* M.S. in Quantitative Economics, European Joint Degree, 2021
+* M.S. in System Control Engineering, Telemark University College, 2010
+* B.S. in Chemical Engineering, Hubei University, 2008
 
 Visit
 ------
