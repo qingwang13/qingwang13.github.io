@@ -10,7 +10,7 @@ password: 821313
 ## Welcome, Qing 👋
 
 This page is hidden and password protected. Add your notes below:
--[ticket](/files/ticket.pdf)
+- [ticket](/files/ticket.pdf)
 </div>
 
 <div id="password-form">
