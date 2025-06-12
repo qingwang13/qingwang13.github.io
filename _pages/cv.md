@@ -46,12 +46,6 @@ Talks
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul> -->
-  
-Teaching
-------
-  <ul>{% for post in site.teaching_old %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
 <!--Service and leadership
 ------
