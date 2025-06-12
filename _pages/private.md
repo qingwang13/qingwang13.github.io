@@ -6,11 +6,11 @@ password: 821313
 ---
 
 <div id="private-content" style="display:none;">
-
-## Welcome, Qing 👋
-
-This page is hidden and password protected. Add your notes below:
-- [ticket](/files/ticket.pdf)
+  <h2>Welcome, Qing 👋</h2>
+  <p>This page is hidden and password protected. Add your notes below:</p>
+  <ul>
+    <li><a href="{{ '/files/ticket.pdf' | relative_url }}" download>ticket</a></li>
+  </ul>
 </div>
 
 <div id="password-form">
