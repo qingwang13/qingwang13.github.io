@@ -9,7 +9,7 @@ password: 821313
   <h2>Welcome, Qing 👋</h2>
   <p>This page is hidden and password protected. Add your notes below:</p>
   <ul>
-    <li><a href="{{ '/files/ticket.pdf' | relative_url }}" download>ticket</a></li>
+    <li><a href="{{ '/files/bisp.zip' | relative_url }}" download>ticket</a></li>
   </ul>
 </div>
 
