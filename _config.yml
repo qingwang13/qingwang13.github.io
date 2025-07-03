@@ -83,12 +83,12 @@ analytics:
 author:
   name             : "Qing Wang"
   avatar           : "IMG_3290.jpeg"
-  bio              : "PhD in Economics\nCa' Foscari"
+  bio              : "PhD in Economics\n Ca' Foscari"
   location         : "Venezia, IT"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=MixkcxQAAAAJ&hl=en"
-  email            :
+  email            : "qing.wang@unive.it"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
