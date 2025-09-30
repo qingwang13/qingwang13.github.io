@@ -6,8 +6,8 @@ password: 821313
 ---
 
 <div id="private-content" style="display:none;">
-  <h2>Welcome, Qing 👋</h2>
-  <p>This page is hidden and password protected. Add your notes below:</p>
+  <h2>  </h2>
+  <p>   </p>
   <ul>
     <li><a href="{{ '/files/policy.pdf' | relative_url }}" download>ali</a></li>
   </ul>
