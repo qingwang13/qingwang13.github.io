@@ -18,8 +18,6 @@ Book Chapters:
 ------
 - Casarin, R., Craiu, R., & Wang, Q. (2025). Markov Switching Tensor Regressions. **New Trends in Functional Statistics and Related Fields**, 109. Springer, Cham. [pdf](https://link.springer.com/chapter/10.1007/978-3-031-92383-8_14)
 
-[//]: # (Working Papers:)
-
-[//]: # (------)
-
-[//]: # (- Bayesian dimensionality reduction methods)
+Working Papers:
+------
+- Compressed Bayesian Tensor Regression (jointly with Roberto Casarin and Radu Craiu). [arxiv](https://arxiv.org/abs/2510.01861)
