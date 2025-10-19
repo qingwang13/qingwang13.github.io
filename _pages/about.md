@@ -16,4 +16,4 @@ My advisors are Prof. Roberto Casarin from Ca' Foscari University and Prof. Radu
 
 I was a visiting PhD student in the Department of Statistical Sciences at University of Toronto from September 2023 to June 2024.
 
-[Here is my (reasonably) updated CV (PDF)](/files/CV.pdf)
+[Here is my (reasonably) updated CV](/files/CV.pdf)

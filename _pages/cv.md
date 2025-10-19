@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[Here is my (reasonably) updated CV (PDF)](/files/CV.pdf)
+[Here is my (reasonably) updated CV](/files/CV.pdf)
 
 {% include base_path %}
 
