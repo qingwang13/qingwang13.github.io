@@ -9,7 +9,7 @@ password: 821313
   <h2>  </h2>
   <p>   </p>
   <ul>
-    <li><a href="{{ '/files/tax.pdf' | relative_url }}" download>tax</a></li>
+    <li><a href="{{ '/files/slides.pdf' | relative_url }}" download>slides</a></li>
   </ul>
 </div>
 
