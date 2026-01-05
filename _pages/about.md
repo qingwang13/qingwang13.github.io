@@ -18,4 +18,4 @@ I'm very fortunate to be advised by Prof. Roberto Casarin from Ca' Foscari Unive
 
 I was a visiting PhD student in the Department of Statistical Sciences at University of Toronto from September 2023 to June 2024.
 
-[Here is a (reasonably) updated CV](/files/CV.pdf)
+[Here is my (reasonably updated） CV](/files/CV.pdf)
