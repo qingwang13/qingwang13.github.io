@@ -10,7 +10,9 @@ redirect_from:
 
 Welcome!
 
-I'm a PhD student and a research fellow at the Department of Economics at Ca' Foscari University. My research interest lies in tensor regression, Bayesian inference and high-dimensional data analysis.
+I'm a PhD student and a research fellow at the Department of Economics at Ca' Foscari University. 
+
+My research is at the intersection of **Bayesian statistics, high-dimensional inference, and machine learning**, focusing on structured data such as tensors, networks, and multivariate time series. I develop **Bayesian tensor regression models** with **random projection–based dimension reduction** to enable scalable inference in complex settings. My theoretical work establishes **concentration inequalities and posterior consistency** under compression, providing guarantees for reliable uncertainty quantification, with applications in macro-finance and financial econometrics.
 
 I'm very fortunate to be advised by Prof. Roberto Casarin from Ca' Foscari University and Prof. Radu Craiu from University of Toronto during my PhD study.
 
