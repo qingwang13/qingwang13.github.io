@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Economics, Ca' Foscari University, 2026 (expected)
+* Ph.D in Economics (with honors), Ca' Foscari University, 2026
 * M.S. in Quantitative Economics, European Joint Degree, 2021
 * M.S. in System Control Engineering, Telemark University College, 2010
 * B.S. in Chemical Engineering, Hubei University, 2008
