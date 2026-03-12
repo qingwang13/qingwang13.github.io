@@ -16,4 +16,4 @@ My research is at the intersection of **Bayesian statistics, high-dimensional in
 
 I was a visiting PhD student in the Department of Statistical Sciences at University of Toronto from September 2023 to June 2024.
 
-[Here is my (reasonably updated） CV](/files/CV.pdf)
+[Here is a (reasonably updated) CV](/files/CV.pdf)
