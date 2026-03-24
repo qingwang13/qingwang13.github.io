@@ -23,3 +23,4 @@ Working Papers:
 ------
 - Compressed Bayesian Tensor Regression (jointly with Roberto Casarin and Radu Craiu). [arxiv](https://arxiv.org/abs/2510.01861)
 - Bayesian tensor regression with stochastic volatility
+- Connectedness of the international bond markets (jointly with Billio, M., Berardi, A. and Casarin, R.)
