@@ -9,7 +9,7 @@ password: 821313
   <h2>  </h2>
   <p>   </p>
   <ul>
-    <li><a href="{{ '/files/ocean.pdf' | relative_url }}" download>ocean</a></li>
+    <li><a href="{{ '/files/print.zip' | relative_url }}" download>print</a></li>
   </ul>
 </div>
 
